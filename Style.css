@@ -6,10 +6,6 @@
 }
 
 .logo>img {
-	text-decoration:none;
-}
-
-img {
 height:70px;
 width:70px;
 object-fit:cover;
@@ -17,7 +13,7 @@ object-fit:cover;
 
 .link {
 	text-decoration:none;
-	background:pink;
+	background:#587062;
     margin:20px;
     padding:20px;
     color:white;
@@ -28,7 +24,7 @@ object-fit:cover;
 
 .link:hover {
 	background:white;
-	color:brown;
+	color:#472B26;
 	text-decoration:none;
 }
 
@@ -37,17 +33,199 @@ object-fit:cover;
 	object-fit:cover;
 }
 
+h3 {
+	font-family:arial;
+	font-size:30px;
+}
+
+.def-pat>p {
+	margin-top:20px;
+	margin-left:200px; 
+	margin-right:200px;
+	text-align:justify;	
+}
+
+.impatients-text {
+	margin-bottom:220px;
+	margin-left:500px;
+    width:500px
+}
+
+.gourmandises-clic {
+    margin-bottom:150px;
+	margin-left:500px;
+}
+
+.christmas-text {
+    margin-bottom:150px;
+	margin-left:150px;
+    width:700px;
+}
+
+.actus-clic {
+    margin-bottom:80px;
+}
+
+.events-text {
+    margin-bottom:300px;
+    margin-left:-100px;
+    width:500px;
+}
+.contact-clic {
+	margin-bottom:230px;
+	margin-right:700px;
+}
+
+.vegan-text {
+	margin-bottom:150px;
+	margin-right:50px;
+	width:600px;
+}
+
+.big-logo  {
+	width:400px;
+    height:400px;
+    align-items:center;
+    object-fit:cover;
+    margin-bottom:30px;
+}
+
+.btn {
+	background:#99B7A8;
+}
+
+h5 {
+    text-align:center;
+    color:#587062;
+}
+
+h6 {
+	text-align:center;
+	color:#472B26 ;
+}
+
+.image-cap {
+    object-fit:cover;
+    border-radius:10%;
+    width:200px;
+	height:200px;
+	margin-left: auto;
+    margin-right: auto
+}
+
 h1 {
-	font-family:arial;
-	font-size:90px;
+	text-align:center;
+	color:#587062;
 }
 
-h2 {
-	font-family:arial;
-	font-size:50px;
+.parcours-style {
+	text-align:justify;
 }
 
-p {
-	margin-top: 20px;
-	text-align: center;
+.card {
+	border-style:none;
+}
+
+.display>img {
+	width:1150px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:2%;
+}
+
+.def-pat>p {
+	margin-top:20px;
+	margin-left:200px; 
+	margin-right:200px;
+	text-align:justify;	
+}
+
+.impatients-text {
+	margin-bottom:220px;
+	margin-left:500px;
+    width:500px
+}
+
+.gourmandises-clic {
+    margin-bottom:150px;
+	margin-left:500px;
+}
+
+.christmas-text {
+    margin-bottom:150px;
+	margin-left:150px;
+    width:700px;
+}
+
+.actus-clic {
+    margin-bottom:80px;
+}
+
+.events-text {
+    margin-bottom:300px;
+    margin-left:-100px;
+    width:500px;
+}
+.contact-clic {
+	margin-bottom:230px;
+	margin-right:700px;
+}
+
+.vegan-text {
+	margin-bottom:150px;
+	margin-right:50px;
+	width:600px;
+}
+
+.big-logo  {
+	width:400px;
+    height:400px;
+    align-items:center;
+    object-fit:cover;
+    margin-bottom:30px;
+}
+
+.btn {
+	background:#99B7A8;
+}
+
+h5 {
+    text-align:center;
+    color:#587062;
+}
+
+h6 {
+	text-align:center;
+	color:#472B26 ;
+}
+
+.image-cap {
+    object-fit:cover;
+    border-radius:10%;
+    width:200px;
+	height:200px;
+	margin-left: auto;
+    margin-right: auto
+}
+
+h1 {
+	text-align:center;
+	color:#587062;
+}
+
+.parcours-style {
+	text-align:justify;
+}
+
+.card {
+	border-style:none;
+}
+
+.display>img {
+	width:1150px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:2%;
 }
