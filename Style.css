@@ -6,9 +6,9 @@
 }
 
 .logo>img {
-height:70px;
-width:70px;
-object-fit:cover;
+    height:70px;
+    width:70px;
+    object-fit:cover;
 }
 
 .link {
@@ -18,7 +18,7 @@ object-fit:cover;
     padding:20px;
     color:white;
     font-size:14px;
-    font-family:arial;
+    font-family:krungthep;
     border-radius:4px;
 }
 
@@ -34,104 +34,12 @@ object-fit:cover;
 }
 
 h3 {
-	font-family:arial;
+	font-family:krungthep;
 	font-size:30px;
 }
 
-.def-pat>p {
-	margin-top:20px;
-	margin-left:200px; 
-	margin-right:200px;
-	text-align:justify;	
-}
-
-.impatients-text {
-	margin-bottom:220px;
-	margin-left:500px;
-    width:500px
-}
-
-.gourmandises-clic {
-    margin-bottom:150px;
-	margin-left:500px;
-}
-
-.christmas-text {
-    margin-bottom:150px;
-	margin-left:150px;
-    width:700px;
-}
-
-.actus-clic {
-    margin-bottom:80px;
-}
-
-.events-text {
-    margin-bottom:300px;
-    margin-left:-100px;
-    width:500px;
-}
-.contact-clic {
-	margin-bottom:230px;
-	margin-right:700px;
-}
-
-.vegan-text {
-	margin-bottom:150px;
-	margin-right:50px;
-	width:600px;
-}
-
-.big-logo  {
-	width:400px;
-    height:400px;
-    align-items:center;
-    object-fit:cover;
-    margin-bottom:30px;
-}
-
-.btn {
-	background:#99B7A8;
-}
-
-h5 {
-    text-align:center;
-    color:#587062;
-}
-
-h6 {
+.container-contact>p {
 	text-align:center;
-	color:#472B26 ;
-}
-
-.image-cap {
-    object-fit:cover;
-    border-radius:10%;
-    width:200px;
-	height:200px;
-	margin-left: auto;
-    margin-right: auto
-}
-
-h1 {
-	text-align:center;
-	color:#587062;
-}
-
-.parcours-style {
-	text-align:justify;
-}
-
-.card {
-	border-style:none;
-}
-
-.display>img {
-	width:1150px;
-    display: block;
-    margin-left:auto;
-    margin-right:auto;
-    border-radius:2%;
 }
 
 .def-pat>p {
@@ -212,6 +120,7 @@ h6 {
 h1 {
 	text-align:center;
 	color:#587062;
+	font-family:krungthep;
 }
 
 .parcours-style {
@@ -228,4 +137,13 @@ h1 {
     margin-left:auto;
     margin-right:auto;
     border-radius:2%;
+}
+.contact-card {
+	display:flex;
+	justify-content:center;
+	justify-content:space-around;
+}
+
+b {
+	text-align:center;
 }
