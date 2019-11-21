@@ -18,7 +18,7 @@
     padding:20px;
     color:white;
     font-size:14px;
-    font-family:krungthep;
+    font-family:arial;
     border-radius:4px;
 }
 
@@ -34,7 +34,7 @@
 }
 
 h3 {
-	font-family:krungthep;
+	font-family:arial;
 	font-size:30px;
 }
 
@@ -120,7 +120,7 @@ h6 {
 h1 {
 	text-align:center;
 	color:#587062;
-	font-family:krungthep;
+	font-family:arial;
 }
 
 .parcours-style {
@@ -146,4 +146,12 @@ h1 {
 
 b {
 	text-align:center;
+}
+
+.team-space {
+	background-image:url('#');
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	min-width: 100%;
+    min-height: 100%;
 }
